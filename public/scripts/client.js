@@ -36,6 +36,11 @@ $(function() {
 
   function display(result) {
     console.log('display');
+
+    // var myPTag = $('<p>').text("Answer = " + result.answer);
+    // $('#answerDiv').append(myPTag);
+
+    $('#answerDiv').text("Answer = " + result.answer);
   }
 
 }); // end document ready

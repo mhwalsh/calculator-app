@@ -16,3 +16,5 @@
 { "x": "3", "y": "4", "type": "err" }
 7. add form
 8. add click event
+9. wire up client
+10. display on dom

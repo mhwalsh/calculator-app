@@ -13,6 +13,9 @@ app.use(express.static('public'));
 //middleware to parse requst body - json
 app.use(bodyParser.json());
 
+//middleware to parse requst body - urlencoded
+app.use(bodyParser.urlencoded());
+
 app.get('/', function(req, res) {
   res.sendFile(path.join(__dirname, '../public/views/index.html'));
 });

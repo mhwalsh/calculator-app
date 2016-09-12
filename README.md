@@ -18,3 +18,8 @@
 8. add click event
 9. wire up client
 10. display on dom
+11. check number input
+12. clear function
+
+-- Hard Mode --
+-- Pro Mode --

@@ -14,3 +14,5 @@
 { "x": "3", "y": "4", "type": "multiply" }
 { "x": "3", "y": "4", "type": "divide" }
 { "x": "3", "y": "4", "type": "err" }
+7. add form
+8. add click event
